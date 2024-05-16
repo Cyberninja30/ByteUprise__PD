@@ -1,6 +1,8 @@
-# ByteUprise__PDByte Uprise has presented a comprehensive series of four Python development projects, each designed to delve into distinct areas of programming expertise:
+# ByteUprise__PD
 
-Keylogger: This intriguing project entails crafting a Python script capable of discreetly recording and cataloging keystrokes made on a computer. The keylogger operates silently in the background, capturing every keystroke without the user's awareness. Participants will delve into aspects of event handling, file I/O operations, and possibly even explore techniques to obscure the tool from detection by antivirus software.
+Byte Uprise has presented a comprehensive series of four Python development projects, each designed to delve into distinct areas of programming expertise:
+
+Keylogger: This intriguing project entails crafting a Python script capable of discreetly recording and cataloging keystrokes made on a computer. The keylogger operates silently in the background, capturing every keystroke without the user's awareness. Participants will delve into aspects of event handling, and file I/O operations, and possibly even explore techniques to obscure the tool from detection by antivirus software.
 
 Packet Sniffer: Embarking on this endeavor involves constructing a Python-based packet sniffer, a tool that intercepts and dissects network traffic flowing through a designated network interface. Through this project, developers gain insights into networking protocols, socket programming, and data parsing. Additionally, they may explore methods to filter and analyze captured packets, providing valuable insights into network behavior and potential security threats.
 
